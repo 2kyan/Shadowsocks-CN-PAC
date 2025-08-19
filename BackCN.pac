@@ -2,7 +2,7 @@
 翻墙回国 PAC 规则片段
  */
 
-var proxy = "SOCKS5 127.0.0.1:1086; SOCKS 127.0.0.1:1086; DIRECT;";
+var proxy = "SOCKS5 127.0.0.1:5432; SOCKS 127.0.0.1:5432; DIRECT;";
 
 var rules = [
 
